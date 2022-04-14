@@ -4,3 +4,4 @@ Hello world!
 
 *calligraphic*
 
+**half thick**
