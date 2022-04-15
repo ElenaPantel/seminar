@@ -6,7 +6,7 @@
 
 **half thick**
 
-~text~
+~~text is  wrong~~
 
 ## Lists
 
@@ -18,3 +18,4 @@
 2. Numerated element 2
 3. Numerated element 3
 
+Finish
