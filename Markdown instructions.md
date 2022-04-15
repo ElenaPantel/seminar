@@ -20,6 +20,8 @@
 
 ## Images
 
+To insert an image, you can
+
 ## References, links
 
 ## Tables
