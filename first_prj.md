@@ -21,3 +21,8 @@
 2.
 3. – нумерованные списки
 
+## git commands
+
+git branch branch_name   create a new branch
+
+git branch   show list of branches
