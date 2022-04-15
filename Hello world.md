@@ -2,9 +2,11 @@
 
 ## Text formatting
 
-*calligraphic* for to make calligraphic sens one should enclose it in two stars *like that*
+*italic* for to make italic sens one should enclose it in two stars *like that*
 
 **half thick**
+
+~text~
 
 ## Lists
 
