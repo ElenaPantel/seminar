@@ -6,7 +6,7 @@
 
 **half thick**
 
-~~text is  wrong~~
+~~text is wrong~~
 
 ## Lists
 
@@ -17,4 +17,12 @@
 1. Numerated element with some additional information about using Markdown
 2. Numerated element 2
 3. Numerated element 3
+
+## Images
+
+## References, links
+
+## Tables
+
+## Citations and "quotations"
 
