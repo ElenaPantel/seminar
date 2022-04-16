@@ -5,7 +5,7 @@
 *italic* for to make italic sens one should enclose it in two stars (**) *like that* or within (__) _like that_ 
 
 
-**half thick**
+**half thick** or __thick__  using ** and __
 
 __*italic thick*__
 
