@@ -20,7 +20,7 @@
 
 ## Images
 
-To insert an image, you can
+To insert an image, you can 
 
 ## References, links
 
