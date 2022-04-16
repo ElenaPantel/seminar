@@ -31,6 +31,10 @@ To insert an image, you have to use symbools ![]()
 
 ## References, links
 
+[My favorite music](https://www.youtube.com/watch?v=jR1gerSNTYk&list=LL&index=17)
+
+To create a link, enclose the link text in brackets (e.g., [My favorite music]) and then follow it immediately with the URL in parentheses
+
 ## Tables
 
 ## Citations and "quotations"
