@@ -32,6 +32,13 @@ To insert an image, you have to use symbools ![]()
 
 ## Tables
 
+| Fruit | Quantity | Price |
+|:-|:-|:-|
+| Apples | 5 | 2.99 |
+| Oranges | 4 | 3.99 |
+| Bananas | 4 | 1.99 |
+
+
 ## Citations and "quotations"
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
