@@ -34,3 +34,6 @@ To insert an image, you have to use symbools ![]()
 
 ## Citations and "quotations"
 
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+>  *Everything* is going according to **plan**.
