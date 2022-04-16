@@ -2,7 +2,8 @@
 
 ## Text formatting
 
-*italic* for to make italic sens one should enclose it in two stars *like that*
+*italic* for to make italic sens one should enclose it in two stars (**) *like that* or within (__) _like that_ 
+
 
 **half thick**
 
