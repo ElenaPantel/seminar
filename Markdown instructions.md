@@ -20,7 +20,9 @@
 
 ## Images
 
-To insert an image, you can
+To insert an image into a text one should proceed like following:
+![Hello. It's me](yava.jpg)
+
 
 ## References, links
 
