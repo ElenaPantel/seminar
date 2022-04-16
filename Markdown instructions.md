@@ -7,7 +7,7 @@
 
 **half thick** or __thick__  using ** and __
 
-__*italic thick*__
+__*italic thick*__ methods alternation with *  and _
 
 ~~text is wrong~~
 
