@@ -6,6 +6,8 @@
 
 **half thick**
 
+__*italic thick*__
+
 ~~text is wrong~~
 
 ## Lists
@@ -13,6 +15,7 @@
 * Element 1 with some additional information about using Markdown
 * Element 2
 * Element 3
++ Element 4 using + is a little bit different from using *
 
 1. Numerated element with some additional information about using Markdown
 2. Numerated element 2
@@ -23,6 +26,7 @@
 To insert an image into a text one should proceed like following:
 ![Hello. It's me](yava.jpg)
 
+To insert an image, you have to use symbools ![]()
 
 ## References, links
 
