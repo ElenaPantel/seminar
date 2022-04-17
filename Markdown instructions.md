@@ -9,7 +9,7 @@
 
 __*italic thick*__ methods alternation with *  and _
 
-~~text is wrong~~
+~~text is wrong~~ One should use (~~)withaout space from both sides
 
 ## Lists
 
@@ -49,3 +49,4 @@ To create a link, enclose the link text in brackets (e.g., [My favorite music]) 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 >  *Everything* is going according to **plan**.
+
