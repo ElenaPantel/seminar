@@ -32,6 +32,8 @@ __*Полужирное курсивное начертание*__
 # Images
 
 Hello. It's me.
+=======
+![My photo](Elena.jpg)
 
 # Links
 
