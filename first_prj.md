@@ -37,7 +37,8 @@ Hello. It's me.
 
 # Links
 
-Mya favorite music is 
+Mya favorite music is a
+[Song From A Secret Garden](https://www.youtube.com/watch?v=jR1gerSNTYk)
 
 # Quotes
 
