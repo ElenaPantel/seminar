@@ -44,6 +44,12 @@ Mya favorite music is a
 
 Life quotes
 
+> Everithing is possible
+>
+>In the end, it’s not the years in your life that count. It’s the life in your years.
+>
+> Life is given for to be given. The best life is given to God.
+
 ___
 # Git Commands
 ___
