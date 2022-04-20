@@ -42,6 +42,8 @@ Mya favorite music is a
 
 # Quotes
 
+Life quotes
+
 ___
 # Git Commands
 ___
