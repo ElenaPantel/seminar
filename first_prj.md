@@ -42,8 +42,6 @@ Mya favorite music is a
 
 # Quotes
 
-Life quotes
-
 > Everithing is possible
 >
 >In the end, it’s not the years in your life that count. It’s the life in your years.
