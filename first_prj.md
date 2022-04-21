@@ -57,5 +57,3 @@ git branch branch_name  - Creates a new branch
 git branch  - Shows list of branches
 
 Super when I can do it, I like it!
-
-I agree.
